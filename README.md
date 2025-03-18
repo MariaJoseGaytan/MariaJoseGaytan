@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on developing an application for a company as part of a school project.<br>🤝 I’m looking for my first job experience in web development.<br><br><br><br><br>
+🔭 I’m currently working on developing an application for a company as part of a school project.<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
